@@ -2,7 +2,7 @@
 # 👋 Xin chào, mình là Lê Quốc Thắng!
 
 💻 Mình đang học React, SQL và lập trình web.  
-🧗‍♂️ Ngoài ra mình rất thích leo núi — lần đầu ở **Wye Creek (New Zealand)** là một kỷ niệm đáng nhớ! 😄  
+🧗‍♂️ Ngoài ra mình rất thích leo núi — nấu ăn - đánh đàn - rapper
 
 ---
 
