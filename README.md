@@ -14,6 +14,12 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
+### 🌐 Kết nối với mình
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)]([https://facebook.com/ten_cua_ban](https://www.facebook.com/Iamsinno225))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://instagram.com/ten_cua_ban](https://www.instagram.com/thanglee_225/))
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]([https://www.tiktok.com/@ten_taikhoan_cua_ban](https://www.tiktok.com/@sinno_225))
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)]([https://youtube.com/@ten_cua_ban](https://www.youtube.com/@39.lequocthang23))
 
 ### 📊 GitHub Stats:
 ![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinno225&show_icons=true&theme=radical)
