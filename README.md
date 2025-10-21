@@ -20,6 +20,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/thanglee_225/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@39.lequocthang23)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@sinno_225)
+[![Zalo](https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg)](https://zalo.me/0967960575)
+
+---
+
 
 ### 📊 GitHub Stats:
 ![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinno225&show_icons=true&theme=radical)
